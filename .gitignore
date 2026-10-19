@@ -42,8 +42,18 @@ $RECYCLE.BIN/
 # These should never be under version control,
 # as it poses a security risk.
 .env
+.env.*
+!.env.example
 .vagrant
 Vagrantfile
+
+# Dump / backup database memuat data pribadi penghuni dan transaksi.
+*.sql
+*.sql.gz
+*.dump
+
+# Berkas log bisa memuat data sensitif dari request.
+*.log
 
 #-------------------------
 # Temporary Files
