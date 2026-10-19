@@ -64,32 +64,8 @@ sementara pencatatan, penomoran, penagihan, dan pelaporan berjalan otomatis.
 ---
 
 ## Tangkapan Layar
-
-> **Catatan:** gambar di bawah masih kosong dan akan diisi manual.
-> Letakkan berkas gambar di folder `docs/images/` dengan nama berkas yang sama
-> seperti pada tautan, lalu gambar akan tampil otomatis di halaman ini.
-
-### Dashboard Admin
-![Dashboard admin](docs/images/dashboard-admin.png)
-
-### Data Kamar
-![Data kamar](docs/images/data-kamar.png)
-
-### Tagihan Bulanan
-![Daftar tagihan](docs/images/tagihan.png)
-
-### Pembayaran & Kwitansi
-![Kwitansi pembayaran](docs/images/kwitansi.png)
-
-### Laporan Bulanan
-![Laporan bulanan](docs/images/laporan.png)
-
-### Portal Penghuni
-![Dashboard penghuni](docs/images/portal-penghuni.png)
-
-### Cetak Tagihan
-![Cetak tagihan](docs/images/cetak-tagihan.png)
-
+<img width="1351" height="1627" alt="kosKu 1" src="https://github.com/user-attachments/assets/637ebcd7-b550-4e06-ad3a-6fbced219052" />
+<img width="1366" height="613" alt="kosKu 2" src="https://github.com/user-attachments/assets/1cf44935-e3fe-4e69-a0a2-96cd736788f1" />
 ---
 
 ## Ekspor Laporan
